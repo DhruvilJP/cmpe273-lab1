@@ -1,6 +1,6 @@
 import requests
 
-url = 'https://webhook.site/c60a63dd-dfea-4ab3-a85f-d03aab147fd5'
+url = 'https://webhook.site/668115b7-a6c0-49cd-bda2-25066934b072'
 
 def get_response(number):
     response = requests.get(url)
