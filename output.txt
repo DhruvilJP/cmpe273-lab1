@@ -1,10 +1,10 @@
 ---------------Output of http_call.py-------------------
-Request #1 Date: Sun, 02 Sep 2018 23:57:03 GMT
-Request #2 Date: Sun, 02 Sep 2018 23:57:04 GMT
-Request #3 Date: Sun, 02 Sep 2018 23:57:05 GMT
+Request #1 Date: Mon, 03 Sep 2018 00:09:40 GMT
+Request #2 Date: Mon, 03 Sep 2018 00:09:41 GMT
+Request #3 Date: Mon, 03 Sep 2018 00:09:42 GMT
 
 
 ---------------Output of http_async_call.py-------------
-Request #3 Date: Sun, 02 Sep 2018 23:58:34 GMT
-Request #2 Date: Sun, 02 Sep 2018 23:58:35 GMT
-Request #1 Date: Sun, 02 Sep 2018 23:58:36 GMT
+Request #3 Date: Mon, 03 Sep 2018 00:09:53 GMT
+Request #2 Date: Mon, 03 Sep 2018 00:09:55 GMT
+Request #1 Date: Mon, 03 Sep 2018 00:09:56 GMT
